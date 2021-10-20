@@ -16,8 +16,7 @@ RUN useradd -m $user \
   && printf "user: $user\ngroup: $user\n" > /etc/fixuid/config.yml
 USER $user
 WORKDIR /home/$user
-ENTRYPOINT ["fixuid", "-q"]
-CMD ["code-server", "--bind-addr", "0.0.0.0:8080"]
+ENTRYPOINT ["fixuid", "-q", "code-server", "--bind-addr", "0.0.0.0:8080"]
 
 # Install tools and programming languages
 RUN yay -Syyu --noconfirm \
