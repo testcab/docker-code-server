@@ -30,6 +30,7 @@ RUN yay -Syyu --noconfirm \
   groovy \
   jdk-openjdk openjdk-src \
   nodejs npm yarn \
+  powershell-bin \
   python \
   # Tools
   ansible \

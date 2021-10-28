@@ -20,6 +20,7 @@ An [code-server](https://hub.docker.com/codercom/code-server) docker image based
 * groovy
 * jdk-openjdk, openjdk-src
 * nodejs, npm, yarn
+* powershell
 * python
 
 ## Tools
