@@ -27,4 +27,5 @@ An [code-server](https://hub.docker.com/codercom/code-server) docker image based
 
 * ansible
 * bash-completion, shellcheck
+* rmate
 * terraform
