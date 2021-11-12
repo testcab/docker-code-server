@@ -35,5 +35,6 @@ RUN yay -Syyu --noconfirm \
   # Tools
   ansible \
   bash-completion shellcheck \
+  docker docker-compose \
   rmate \
   terraform
