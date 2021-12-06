@@ -21,7 +21,7 @@ An [code-server](https://hub.docker.com/codercom/code-server) docker image based
 * jdk-openjdk, openjdk-src
 * nodejs, npm, yarn
 * powershell
-* python
+* python, python-pip
 
 ## Tools
 

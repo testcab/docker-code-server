@@ -31,7 +31,7 @@ RUN yay -Syyu --noconfirm \
   jdk-openjdk openjdk-src \
   nodejs npm yarn \
   powershell-bin \
-  python \
+  python python-pip \
   # Tools
   ansible \
   bash-completion shellcheck \
