@@ -4,6 +4,7 @@ An [code-server](https://hub.docker.com/codercom/code-server) docker image based
 
 ## Cloud Tools
 
+* aliyun-cli
 * aws-cli
 * azure-cli (AUR)
 * google-cloud-sdk (AUR)

@@ -21,6 +21,7 @@ ENTRYPOINT ["fixuid", "-q", "code-server", "--bind-addr", "0.0.0.0:8080"]
 # Install tools and programming languages
 RUN yay -Syyu --noconfirm \
   # Cloud Tools
+  aliyun-cli \
   aws-cli azure-cli google-cloud-sdk \
   # Editors
   nano vim \
