@@ -24,6 +24,8 @@ RUN yay -Syyu --noconfirm \
   aws-cli azure-cli google-cloud-sdk \
   # Editors
   nano vim \
+  # SCM
+  git tig \
   # Programming Languages
   dotnet-sdk aspnet-targeting-pack \
   go \

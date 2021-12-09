@@ -13,6 +13,9 @@ An [code-server](https://hub.docker.com/codercom/code-server) docker image based
 * nano
 * vim
 
+## SCM
+* git, tig
+
 ## Programming Languages
 
 * dotnet-sdk, aspnet-targeting-pack
