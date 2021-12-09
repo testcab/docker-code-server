@@ -37,4 +37,4 @@ RUN yay -Syyu --noconfirm \
   bash-completion shellcheck \
   docker docker-compose \
   rmate \
-  terraform
+  terraform terragrunt
